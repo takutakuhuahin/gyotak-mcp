@@ -1,0 +1,7 @@
+startCommand:
+  type: http
+  url: https://line-harness.gyotak.workers.dev/mcp
+  configSchema:
+    type: object
+    properties: {}
+    required: []
