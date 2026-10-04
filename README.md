@@ -1,27 +1,26 @@
 # GYOTAK MCP Server
 
-MCP server for **GYOTAK** — sashimi-grade flash-frozen fish from Hua Hin, Thailand.
+MCP server for **GYOTAK** — sashimi-grade flash-frozen fish from Pranburi, Thailand.
 
 ## Overview
 
 GYOTAK processes and sells sashimi-grade flash-frozen fish to both retail customers and wholesale businesses (restaurants, food businesses) in Thailand.
 
 ## MCP Server URL
-https://line-harness.gyotak.workers.dev/mcp
+https://mcp.gyotakuprotocol.com/mcp
 
-## Available Tools
+## Tools (partial list; `tools/list` on the endpoint is authoritative)
 
 | Tool | Description |
 |------|-------------|
 | `get_catalog` | Get full fish catalog with availability (Fresh/Tier1/Tier2) |
 | `search_fish` | Search fish by name in Japanese, Thai, or English |
-| `get_contact_info` | Get purchase contact info for B2C and B2B channels |
+| `get_contact_info` | Get the two ways to buy (retail and wholesale), with contact details for each |
 
 ## Purchase Channels
 
-- **B2C (Retail):** LINE @602pilci → https://line.me/R/ti/p/@602pilci
 - **B2B VIP (Wholesale):** LINE @284ezjvm — Tier pricing, application required
 
 ## Location
 
-Hua Hin, Thailand
+Pranburi, Prachuap Khiri Khan, Thailand

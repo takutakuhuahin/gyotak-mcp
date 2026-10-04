@@ -1,6 +1,6 @@
 startCommand:
   type: http
-  url: https://line-harness.gyotak.workers.dev/mcp
+  url: https://mcp.gyotakuprotocol.com/mcp
   configSchema:
     type: object
     properties: {}
